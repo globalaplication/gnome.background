@@ -5,7 +5,7 @@
 import os
 class load (object):
     def __init__(self, file="/var/tmp/data"):
-        """ eğer tanımlama yapılmassa tmp klasörüne anahtarlar için 
+        """ eğer tanımlama yapılmazsa tmp klasörüne anahtarlar için 
         data isminde dosya oluşturulur"""
         self.file = file
         self.keys = []
