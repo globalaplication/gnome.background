@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 #!/usr/bin/env python
 #https://github.com/globalaplication/gnome.background/blob/master/config.py
+#https://www.youtube.com/channel/UCRx5NnTE3bK_gMXm0-lKlpw/featured
 import os
 class load (object):
     def __init__(self, file="/var/tmp/data"):
